@@ -1,6 +1,6 @@
 using System;
 
-namespace FlowwersAppNew
+namespace FlowwersAppNew.Models
 {
     public class WeatherForecast
     {
